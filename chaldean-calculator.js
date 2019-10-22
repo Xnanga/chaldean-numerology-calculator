@@ -34,7 +34,7 @@ for(let i=0; i < userInputNameArray.length; i++) {
  userInputNameArray[i] = userInputNameArray[i].replace(/g/ig, 3);
 }
 for(let i=0; i < userInputNameArray.length; i++) {
- userInputNameArray[i] = userInputNameArray[i].replace(/h/ig, 4);
+ userInputNameArray[i] = userInputNameArray[i].replace(/h/ig, 5);
 }
 for(let i=0; i < userInputNameArray.length; i++) {
  userInputNameArray[i] = userInputNameArray[i].replace(/i/ig, 1);
